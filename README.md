@@ -9,6 +9,5 @@ For that, we choose to answer some interesting questions :
 ## File Descriptions
 There are 1 notebook available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
-
 Results
 The main findings of the code can be found at the post available here.
