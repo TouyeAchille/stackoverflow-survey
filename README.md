@@ -1,3 +1,9 @@
+
+## Table of Contents
+1. Project Motivation
+2. File Descriptions
+3. Results
+
 ## Project Motivation
 For this project, I was interestested in using Stack Overflow data retrieve all of the Stack Overflow Survey - multiple years (from 2017 to 2022)  to better understand How to become web developper?  
 
